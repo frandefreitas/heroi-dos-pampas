@@ -1,4 +1,5 @@
 Herói dos Pampas 🧉⚔️
+
 Herói dos Pampas é um jogo 2D desenvolvido em Python utilizando Pygame, inspirado na cultura e cidades do Rio Grande do Sul. O jogador controla um gaúcho que enfrenta inimigos usando chimarrões como arma em fases temáticas de cidades como Aceguá, Bagé, Bento Gonçalves, Farroupilha, Pelotas, Piratini, Rio Grande, entre outras.
 
 Funcionalidades
